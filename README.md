@@ -9,4 +9,4 @@ This repository only hosts the public web pages of the Peyvzan app:
 - `data/` — Peyvzan word lists with Kurdish definitions, licensed **CC BY-SA 4.0**
   (derived from Kurdish Wiktionary, KurdishHunspell, Kurmanji Wikipedia, KLPT and other open sources — see data.html).
 
-Contact: destek@peyvzan.app
+Contact: peyvzan.app@gmail.com
